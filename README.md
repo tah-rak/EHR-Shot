@@ -18,7 +18,7 @@ By defining two novel topological metrics—**"Broad Spectrum"** (number of dise
 3.  **Acute, Broad-Spectrum (Bottom-Right):** Single-use, procedural drugs (e.g., Anesthetics).
 4.  **Acute, Specialized (Bottom-Left):** Specialized, one-time treatments (e.g., Topical clotting agents).
 
-![Drug Landscape Quadrant Analysis](./image/DrugLandscape.png)
+![Drug Landscape Quadrant Analysis]
 <img width="1001" height="697" alt="image" src="https://github.com/user-attachments/assets/0a5d81a7-3c3b-4b1c-9d21-3c89fa3c0757" />
 
 
@@ -28,7 +28,8 @@ Using a drug-drug co-treatment graph and **Betweenness Centrality**, we identifi
 
 These drugs act as structural bridges connecting disparate disease communities (e.g., linking the "kidney disease" drug cluster with the "cancer drug" cluster), highlighting their role in treating widespread concurrent conditions like anemia.
 
-![Bridge Analysis of Ferrous Lactate]("")
+![Bridge Analysis of Ferrous Lactate] <img width="1000" height="751" alt="image" src="https://github.com/user-attachments/assets/477ce405-ff9f-4fb5-8959-d854378a1d67" />
+
 
 ## Methodology
 
