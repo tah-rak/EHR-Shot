@@ -26,7 +26,7 @@ Using a drug-drug co-treatment graph and **Betweenness Centrality**, we identifi
 
 These drugs act as structural bridges connecting disparate disease communities (e.g., linking the "kidney disease" drug cluster with the "cancer drug" cluster), highlighting their role in treating widespread concurrent conditions like anemia.
 
-![Bridge Analysis of Ferrous Lactate](./image/BridegeAnalysis.png)
+![Bridge Analysis of Ferrous Lactate]("c:\users\tharak\Pictures\Screenshots\Screenshot 2026-03-20 185824.png")
 
 ## Methodology
 
