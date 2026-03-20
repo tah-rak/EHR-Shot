@@ -1,0 +1,2 @@
+community_id,size,num_drugs,num_diseases,top_drugs,top_diseases
+0,5812,500,5312,"['benzocaine 15 MG / menthol 3.6 MG Oral Lozenge', 'ferrous sulfate 60 MG/ML Oral Solution', 'gabapentin 300 MG Oral Capsule']","['Sprain of cruciate ligament of knee', 'Infarct of cerebrum due to iatrogenic cerebrovascu', 'Intracranial space-occupying lesion']"
